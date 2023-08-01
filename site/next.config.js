@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Del Norte HS Computer Science',
     description: 'Del Norte HS Kasm supported workspaces.',
-    icon: '/img/logo.svg',
+    icon: 'https://nighthawkcoders.github.io/kasm_registry/1.0/logo.png',
     listUrl: 'https://github.com/nighthawkcoders/kasm_registry/',
     contactUrl: 'https://github.com/nighthawkcoders/kasm_registry/issues',
   },
