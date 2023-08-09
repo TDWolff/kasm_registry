@@ -15,8 +15,8 @@
         }
     },
     "categories": [
-      "Development",
-      "Desktop"
+      "Desktop",
+      "Development"
     ],
     "friendly_name": "CSSE Ubuntu Jammy",
     "architecture": [
