@@ -2,7 +2,7 @@
     "description": "Nighthawk Coders Official 2023-2024 WorkSpace Image",
     "docker_registry": "https://index.docker.io/v1/",
     "image_src": "nighthawkcoders.png",
-    "name": "aaditgupta21/kasm-workspaces:0.3",
+    "name": "aaditgupta21/kasm-nighthawks:1.0.0",
     "run_config": {
       "hostname": "kasm"
     },
