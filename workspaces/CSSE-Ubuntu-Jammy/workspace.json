@@ -2,7 +2,7 @@
     "description": "Nighthawk Coders CSSE Official 2023-2024 Ubuntu Desktop Workspace",
     "docker_registry": "https://index.docker.io/v1/",
     "image_src": "nighthawkcoders.png",
-    "name": "nighthawkcoders/kasm_workspaces:latest",
+    "name": "nighthawkcoders/kasm_workspaces:1.0",
     "run_config": {
       "hostname": "kasm"
     },
