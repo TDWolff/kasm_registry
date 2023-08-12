@@ -1,5 +1,5 @@
 {
-    "description": "Nighthawk Coders CSSE Official 2023-2024 Ubuntu Desktop Workspace",
+    "description": "Nighthawk Coders Official 2023-2024 Ubuntu Jammy 22.04 Desktop Workspace",
     "docker_registry": "https://index.docker.io/v1/",
     "image_src": "nighthawkcoders.png",
     "name": "nighthawkcoders/kasm_workspaces:1.0",
@@ -18,7 +18,7 @@
       "Desktop",
       "Development"
     ],
-    "friendly_name": "CSSE Ubuntu Jammy",
+    "friendly_name": "Ubuntu Jammy",
     "architecture": [
       "amd64"
     ],
