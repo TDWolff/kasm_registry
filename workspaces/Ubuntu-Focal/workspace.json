@@ -15,7 +15,8 @@
         }
     },
     "categories": [
-      "workspaces"
+      "Desktop",
+      "Development"
     ],
     "friendly_name": "Ubuntu Focal",
     "architecture": [
