@@ -2,7 +2,7 @@
     "friendly_name": "Ubuntu 22.04 Student Edition",
     "image_src": "nighthawkcoders-stu-edition.png",
     "description": "This Dockerfile creates a Docker image based on Ubuntu, with Google Chrome and Visual Studio Code pre-installed. It's designed to provide students with a consistent, ready-to-use development environment on any device.",
-    "name": "nighthawkcoders/pusd-student-ubuntu:1.14.0",
+    "name": "nighthawkcoders/pusd-student-ubuntu:1.14.0v1",
     "cores": 2,
     "memory": 2768,
     "gpu_count": 0,
