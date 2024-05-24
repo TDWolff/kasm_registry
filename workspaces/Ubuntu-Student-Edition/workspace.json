@@ -7,16 +7,22 @@
     "memory": 2768,
     "gpu_count": 0,
     "cpu_allocation_method": "Inherit",
-    "docker_registry": "https://index.docker.io/v1/",
+    "docker_registry": "https://index.docker.io/v1.1/",
     "categories": [
-      "Desktop",
-      "Development",
-      "Productivity"
+        "Desktop",
+        "Development"
     ],
     "require_gpu": false,
     "enabled": true,
     "image_type": "Container",
+    "run_config": {
+        "hostname": "kasm"
+    },
     "architecture": [
-      "amd64"
-    ]
-  }
+        "amd64"
+    ],
+    "compatibility": [
+        "1.14.x"
+    ],
+    "uncompressed_size_mb": 4200
+}
