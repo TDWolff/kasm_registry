@@ -22,7 +22,8 @@
         "amd64"
       ],
     "compatibility": [
-        "1.14.x"
+        "1.14.x",
+        "1.15.x"
     ],
     "uncompressed_size_mb": 4200
 }
