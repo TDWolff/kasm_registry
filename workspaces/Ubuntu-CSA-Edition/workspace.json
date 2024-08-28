@@ -1,5 +1,5 @@
 {
-    "friendly_name": "Ubuntu 22.04 CSA Edition",
+    "friendly_name": "CSA Ubuntu 22.04",
     "image_src": "nighthawkcoders-stu-edition.png",
     "description": "This Dockerfile creates a Docker image based on Ubuntu, with Google Chrome and Visual Studio Code pre-installed. It's designed to provide students with a consistent, ready-to-use development environment on any device.",
     "name": "nighthawkcoders/pusd-student-ubuntu:1.14.0-csa",
